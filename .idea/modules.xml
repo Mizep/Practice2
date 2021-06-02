@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Practice2.iml" filepath="$PROJECT_DIR$/.idea/modules/Practice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Practice2.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Practice2.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dialog/Practice2.dialog.iml" filepath="$PROJECT_DIR$/.idea/modules/dialog/Practice2.dialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intent_filter/Practice2.intent_filter.iml" filepath="$PROJECT_DIR$/.idea/modules/intent_filter/Practice2.intent_filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lifecycleactivity/Practice2.lifecycleactivity.iml" filepath="$PROJECT_DIR$/.idea/modules/lifecycleactivity/Practice2.lifecycleactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multi_act/Practice2.multi_act.iml" filepath="$PROJECT_DIR$/.idea/modules/multi_act/Practice2.multi_act.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/notification/Practice2.notification.iml" filepath="$PROJECT_DIR$/.idea/modules/notification/Practice2.notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/toast/Practice2.toast.iml" filepath="$PROJECT_DIR$/.idea/modules/toast/Practice2.toast.iml" />
+    </modules>
+  </component>
+</project>

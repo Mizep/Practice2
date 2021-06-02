@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void onClickNewActivity(View view) {
         Intent toSecond = new Intent(this, SecondActivity.class);
-        toSecond.putExtra("key", "MIREA - ФАМИЛИЯ ИМЯ ОТЧЕСТВО СТУДЕНТА");
+        toSecond.putExtra("key", "MIREA - Зимин Михаил Максимович");
         startActivity(toSecond);
     }
 }
